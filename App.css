@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  background: white;
+  padding: 40px 25px;
+  text-align: center;
+  border-radius: 20px;
+  width: 280px;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+h2 {
+  padding: 10px;
+}
